@@ -120,7 +120,7 @@ let sumRecoveredPR = function (a) {
 
 let logSumRecoveredPR = function () {
   //console.log(rememberSales(numberMoneyData).toFixed(2));
-  console.log(sumRecoveredPR(numberDataPR).toFixed(2));
+  //console.log(sumRecoveredPR(numberDataPR).toFixed(2));
   toBeTakenFromProfit = sumRecoveredPR(numberDataPR).toFixed(2);
   };
 
